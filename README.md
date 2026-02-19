@@ -268,8 +268,8 @@ recession-prediction/
 
 **Your Name**
 
-- LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/adnan-khan-pathan/)
+- Email: adnann090900@gmail.com
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## License
