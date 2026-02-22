@@ -270,7 +270,6 @@ recession-prediction/
 
 - LinkedIn: https://www.linkedin.com/in/adnan-khan-pathan/
 - Email: adnann090900@gmail.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## License
 
