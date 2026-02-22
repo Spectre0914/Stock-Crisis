@@ -266,14 +266,10 @@ recession-prediction/
 
 ## Author
 
-**Your Name**
+**Adnan Khan Pathan**
 
 - LinkedIn: https://www.linkedin.com/in/adnan-khan-pathan/
 - Email: adnann090900@gmail.com
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -281,18 +277,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Federal Reserve Economic Data (FRED)
 - Yahoo Finance for market data
 - scikit-learn and XGBoost communities
-
-## Citation
-
-If you use this project in your research or work, please cite:
-
-```
-@software{recession_prediction_2024,
-  author = {Your Name},
-  title = {Recession Prediction Using Machine Learning},
-  year = {2024},
-  url = {https://github.com/yourusername/recession-prediction}
-}
-```
 
 ---
